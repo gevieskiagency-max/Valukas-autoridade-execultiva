@@ -1,0 +1,6 @@
+{
+  "name": "Valukas | Autoridade Executiva & Ghostwriting",
+  "description": "Plataforma institucional de Ghostwriting Executivo, Produção Intelectual e Gestão Cultural por Davi Samuel Valukas Lopes (Nana Kofi Adom).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
